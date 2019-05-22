@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HiddenPicture</string>
+    <string name="hidden_picture">HIDDEN PICTURE</string>
+    <string name="created_by_june_delmar_labitoria">Created by: JUNE DELMAR LABITORIA \n ALL RIGHT! \n 2nd TERM EXAM</string>
+    <string name="blank">_____</string>
+    <string name="next">Next</string>
+    <string name="hidden_picturet">Hidden Picture</string>
+    <string name="enter_hidden_picture">Enter hidden picture</string>
+    <string name="hint_here">Hint Here</string>
+    <string name="submit">Submit</string>
+    <string-array name="category">
+        <item>ANIMALS</item>
+        <item>FRUITS</item>
+        <item>SPORTS</item>
+    </string-array>
+</resources>

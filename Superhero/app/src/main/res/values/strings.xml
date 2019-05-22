@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SuperHero - June Delmar Labitoria</string>
+    <string name="superhero">Superhero</string>
+    <string-array name="sh">
+        <item>Superman</item>
+        <item>Batman</item>
+        <item>Green Lantern</item>
+        <item>Wonder Woman</item>
+        <item>Black Widow</item>
+        <item>Flash</item>
+        <item>Spiderman</item>
+        <item>Iron Man</item>
+        <item>Doctor Strange</item>
+        <item>Hulk</item>
+    </string-array>
+</resources>

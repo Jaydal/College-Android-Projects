@@ -1,0 +1,275 @@
+<resources>
+    <string name="app_name">TANUNGERO</string>
+    <string name="time">0</string>
+    <string name="ano_ang_iyong_pangalan">Ano ang iyong pangalan?</string>
+    <string name="you_caught_lying">Nahuli kang nagsinungaling</string>
+    <string name="final_score">Final Score</string>
+    <string name="_64">0</string>
+    <string name="best_score">Best Score</string>
+    <string name="retry">RETRY</string>
+    <string name="home">Home</string>
+    <string name="exit">Exit</string>
+    <string name="credits">Credits</string>
+    <string name="rules">Mechanics</string>
+    <string name="start">Start</string>
+    <string name="rules_content">rules_content</string>
+    <string name="skip">Skip</string>
+    <string-array name="questions">
+        <item>Ano ang pangalan mo?</item>
+        <item>Ilang taon kana?</item>
+        <item>Saan ka nakatira?</item>
+        <item>Ano ang iyong kurso?</item>
+        <item>Sino ang huli mong tinawagan bago mangayari ang insidente?</item>
+        <item>Bakit ka nasa lugar kung saan naganap ang insidente?</item>
+        <item>Anong oras ka dumating sa lugar kung saan naganap ang insidente?</item>
+        <item>Anong taon ka na sa kolehiyo?</item>
+        <item>Ano ang pangalan ng malapit mong kaibigan?</item>
+        <item>Anong taon na sa kolehiyo ang iyong kaibigan?</item>
+        <item>Ano ang pangalan ng iyong kasintahan?</item>
+        <item>Ano ang pangalan ng kasintahan ng iyong kaibigan?</item>
+        <item>Ano ang kurso ng iyong kaibigan?</item>
+        <item>Saan ang iyong kaibigan nang mangyari ang insidente?</item>
+        <item>Anong oras ka kumakain ng pananghalian?</item>
+        <item>Anong oras kumakain ng pananghalian ang iyong kaibigan?</item>
+        <item>Kailan mo balak sabihin ang pangyayari?</item>
+    </string-array>
+    <string-array name="q1">
+        <item>
+            Jomar Buenavista
+        </item>
+        <item>
+            Ben Cruz
+        </item>
+        <item>
+            Robet Aquino
+        </item>
+        <item>
+            Carlo Valdez
+        </item>
+    </string-array>
+    <string-array name="q2">
+        <item>
+            23
+        </item>
+        <item>
+            34
+        </item>
+        <item>
+            19
+        </item>
+        <item>
+            15
+        </item>
+    </string-array>
+    <string-array name="q3">
+        <item>
+            Nueva Vizcaya
+        </item>
+        <item>
+            Manila
+        </item>
+        <item>
+            Cebu
+        </item>
+        <item>
+            Benguet
+        </item>
+    </string-array>
+    <string-array name="q4">
+        <item>
+            Engineer
+        </item>
+        <item>
+            Architecture
+        </item>
+        <item>
+            Education
+        </item>
+        <item>
+            Nursing
+        </item>
+    </string-array>
+    <string-array name="q5">
+        <item>
+            tito ko
+        </item>
+        <item>
+            guro ko
+        </item>
+        <item>
+            kaibigan ko
+        </item>
+        <item>
+            ate ko
+        </item>
+    </string-array>
+    <string-array name="q6">
+        <item>
+            gumagawa ako ng project
+        </item>
+        <item>
+            kumakain ako
+        </item>
+        <item>
+            nanonood ako
+        </item>
+        <item>
+            natutulog ako
+        </item>
+    </string-array>
+    <string-array name="q7">
+        <item>
+            2pm
+        </item>
+        <item>
+            11am
+        </item>
+        <item>
+            4pm
+        </item>
+        <item>
+            10am
+        </item>
+    </string-array>
+    <string-array name="q8">
+        <item>
+            unang taon
+        </item>
+        <item>
+            pangalawang taon
+        </item>
+        <item>
+            ikatlong taon
+        </item>
+        <item>
+            ika-apat na taon
+        </item>
+    </string-array>
+    <string-array name="q9">
+        <item>
+            Juan Luca
+        </item>
+        <item>
+            Roberto Laylayan
+        </item>
+        <item>
+            Pilar Dimakulangan
+        </item>
+        <item>
+            Ernesto Bravo
+        </item>
+    </string-array>
+    <string-array name="q10">
+        <item>
+            unang taon
+        </item>
+        <item>
+            pangalawang taon
+        </item>
+        <item>
+            ikatlong taon
+        </item>
+        <item>
+            ika-apat na taon
+        </item>
+    </string-array>
+    <string-array name="q11">
+        <item>
+            Janina Jane
+        </item>
+        <item>
+            Maria Flor
+        </item>
+        <item>
+            Katerina Cubao
+        </item>
+        <item>
+            Danica Latorre
+        </item>
+    </string-array>
+    <string-array name="q12">
+        <item>
+            Kimberly Marini
+        </item>
+        <item>
+            Jessica Reyes
+        </item>
+        <item>
+            Maine Andaya
+        </item>
+        <item>
+            Rica Chacha
+        </item>
+    </string-array>
+    <string-array name="q13">
+        <item>
+            IT
+        </item>
+        <item>
+            Accountancy
+        </item>
+        <item>
+            Architeture
+        </item>
+        <item>
+            IS
+        </item>
+    </string-array>
+    <string-array name="q14">
+        <item>
+            sa park
+        </item>
+        <item>
+            sa canteen
+        </item>
+        <item>
+            sa klase
+        </item>
+        <item>
+            sa CR
+        </item>
+    </string-array>
+    <string-array name="q15">
+        <item>
+            10 am
+        </item>
+        <item>
+            1pm
+        </item>
+        <item>
+            11am
+        </item>
+        <item>
+            12pm
+        </item>
+    </string-array>
+    <string-array name="q16">
+        <item>
+            3pm
+        </item>
+        <item>
+            1pm
+        </item>
+        <item>
+            12pm
+        </item>
+        <item>
+            11am
+        </item>
+    </string-array>
+    <string-array name="q17">
+        <item>
+            sa susunod na buwan
+        </item>
+        <item>
+            sa susunod na linggo
+        </item>
+        <item>
+            bukas
+        </item>
+        <item>
+            mamaya
+        </item>
+    </string-array>
+
+</resources>

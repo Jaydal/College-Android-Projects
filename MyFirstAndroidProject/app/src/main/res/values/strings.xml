@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstAndroidProject</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="this_is_an_android_logo">This is an android logo</string>
+    <string name="result">Result</string>
+    <string name="first_number">First Number</string>
+    <string name="cumpute">Cumpute</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="created_by_june_delmar_labitoria">Created by : June Delmar Labitoria</string>
+    <string name="amount">Amount</string>
+    <string name="item">Item</string>
+    <string name="n_e_w">n e w</string>
+    <string name="expenses">expenses</string>
+    <string name="save">save</string>
+    <string name="reset_all">reset all</string>
+    <string name="expense_manager">EXPENSE MANAGER</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="php_27_50">Php 0</string>
+    <string name="yes">YEs</string>
+    <string name="no">No</string>
+</resources>

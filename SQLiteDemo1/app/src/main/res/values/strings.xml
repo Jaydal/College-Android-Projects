@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLiteDemo1-JuneDelmarLabitoria</string>
+    <string name="add_student">Add Student</string>
+    <string name="refresh_list">Refresh List</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="student_id">Student ID</string>
+    <string name="student_name">Student Name</string>
+    <string name="add_new_student">Add New Student</string>
+</resources>

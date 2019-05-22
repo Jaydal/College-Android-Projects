@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">DoomsDay</string>
+    <string name="bday">Enter your Birthdate</string>
+    <string name="Month">Month</string>
+    <string name="Day">Day</string>
+    <string name="Year">Year</string>
+    <string name="resest">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="close">Close</string>
+    <string name="myName">June Delmar A Labitoria</string>
+    <string name="res"></string>
+    <string-array name="Month">
+        <item>
+            January
+        </item>
+        <item>
+            February
+        </item>
+        <item>
+            March
+        </item>
+        <item>
+            April
+        </item>
+        <item>
+            May
+        </item>
+        <item>
+            June
+        </item>
+        <item>
+            July
+        </item>
+        <item>
+            August
+        </item>
+        <item>
+            September
+        </item>
+        <item>
+            October
+        </item>
+        <item>
+            November
+        </item>
+        <item>
+            December
+        </item>
+    </string-array>
+    <string-array name="day">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>

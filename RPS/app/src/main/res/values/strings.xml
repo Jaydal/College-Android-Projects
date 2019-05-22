@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="vs">Player VS Computer</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="play">P L A Y</string>
+    <string name="sig">June Delmar Labitoria</string>
+    <string name="Score">0</string>
+    <string name="player">Player\'s Score</string>
+    <string name="comp">Computer\'s Score</string>
+    <string name="max">Winning Score</string>
+    <string name="close">Close</string>
+    <string name="ng">New Match</string>
+    <string name="blank">PLAY RPS</string>
+    <string name="playrps">PLAY RPS</string>
+    <string name="pwon">Player won the match!</string>
+    <string name="compwon">Computer won the match!</string>
+</resources>

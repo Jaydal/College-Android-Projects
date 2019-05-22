@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RolldTheDice</string>
+    <string name="btnRes">Reset</string>
+    <string name="btnClose">Close</string>
+    <string name="btnRollSix">Roll Six Dice</string>
+    <string name="btnRollEight">Roll Eight Dice</string>
+    <string name="sig">JUNE DELMAR LABITORIA</string>
+    <string-array name="SixD">
+        <item>sixsided_one</item>
+        <item>sixsided_two</item>
+        <item>sixsided_three</item>
+        <item>sixsided_four</item>
+        <item>sixsided_five</item>
+        <item>sixsided_six</item>
+    </string-array>
+</resources>
